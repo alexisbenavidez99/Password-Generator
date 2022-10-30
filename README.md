@@ -26,9 +26,9 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 ## Usage
-Link to deployed website: 
+Link to deployed website: https://alexisbenavidez99.github.io/Password-Generator/
 
 ## Preview 
-
+![screenshot](./assets/images/Screen%20Shot%202022-10-30%20at%202.12.49%20PM.png)
 ## License
 MIT License
